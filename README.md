@@ -31,8 +31,8 @@ Create a file named `courses.json` in the project root with your course names an
 
 ```json
 {
-    "Applied Time Series": "https://ilias.uni-konstanz.de/...",
-    "Machine Learning": "https://ilias.uni-konstanz.de/..."
+    "Course_1": "https://ilias.uni-konstanz.de/...",
+    "Course_2": "https://ilias.uni-konstanz.de/..."
 }
 ```
 
