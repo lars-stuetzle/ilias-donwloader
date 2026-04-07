@@ -1,0 +1,10 @@
+pyproject.toml
+ilias_downloader.egg-info/PKG-INFO
+ilias_downloader.egg-info/SOURCES.txt
+ilias_downloader.egg-info/dependency_links.txt
+ilias_downloader.egg-info/entry_points.txt
+ilias_downloader.egg-info/requires.txt
+ilias_downloader.egg-info/top_level.txt
+ilias_scraper/__init__.py
+ilias_scraper/auth.py
+ilias_scraper/scraper.py

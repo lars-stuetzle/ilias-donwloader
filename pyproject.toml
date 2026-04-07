@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ilias-downloader"
+version = "1.0.0"
+description = "A scraper to automatically download course files from ILIAS Uni Konstanz"
+authors = [
+    {name = "Lars"}
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "selenium"
+]
+
+[project.scripts]
+ilias-sync = "ilias_scraper.scraper:main"
