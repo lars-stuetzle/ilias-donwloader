@@ -1,2 +1,0 @@
-[console_scripts]
-ilias-sync = ilias_scraper.scraper:main
