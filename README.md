@@ -28,7 +28,7 @@ Create a file named `courses.json` in the project root folder. This file is igno
 
 ```json
 {
-    "output_path": "C:/Users/YourName/Documents/University",
+    "output_path": "C:/Users/YourName/Documents/University/...",
     "Course Name 1": "https://ilias.uni-konstanz.de/...",
     "Course Name 2": "https://ilias.uni-konstanz.de/..."
 }
