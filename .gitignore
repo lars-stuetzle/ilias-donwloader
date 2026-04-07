@@ -1,0 +1,19 @@
+# Private Configuration
+courses.json
+
+# Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Generic Data (In case someone saves files in the root)
+*.pdf
+*.zip
+*.html
+
+# OS specific files
+.DS_Store
+Thumbs.db
